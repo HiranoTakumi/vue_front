@@ -1,4 +1,5 @@
-# practice
+# vue_front
+vue.jsでのフロント記述練習用
 
 ## Project setup
 ```
